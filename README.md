@@ -6,6 +6,9 @@ We never neglect or let our product die It is updated all the time. We have good
 🐳 Stub:  The default size is 35 KB And it depends Based on your choice of features. The more features you choose,
 the higher the base payload size.
 
+![image](https://github.com/Xc0D3rL/SilverRAT/assets/148558430/b0da06da-0e68-45d7-bb36-4b8ab3e96254)
+
+
 ## 🔰Features
 - ⭐️ Hidden RDP 
 - ⭐️ Hidden VNC
