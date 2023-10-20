@@ -29,9 +29,8 @@ the higher the base payload size.
 - 🔑 System
 
  # ✔️ Send all data to Discord
- - 🔔 If you enable this feature Once the client clicks on the payload  All client data will be listed Such as 🔐Get you all data and passwords as follows
-
-And you compile it into a zip file with a password And it sends you a download link to your Discord account And It tells you whether this client is new or you already have it
+- 🔔 If you enable this feature Once the client clicks on the payload  All client data will be listed Such as 🔐Get you all data and passwords as follows
+- And you compile it into a zip file with a password And it sends you a download link to your Discord account And It tells you whether this client is new or you already have it
 
 ## ✔️ Additional attachments
 - ⭐️ Stub Private / FUD  ❕It will take two days or less for Stub Private to be programmed and sent to you by email automatically
